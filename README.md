@@ -2,4 +2,4 @@
 A portfolio of my code snippets
 
 # What is what:
-Filereader - A simple file reader that skips a line if a certain string is in it 
+Filereaderjava - A simple file reader that skips a line if a certain string is in it in java
