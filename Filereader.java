@@ -11,7 +11,6 @@ public class Main {
       else{
         System.out.println(scan.nextLine());
       }
-      
     }
     scan.close();
   }
